@@ -1,0 +1,32 @@
+Os materiais de estudo utilizados no aprendizado foram
+
+A. Conteúdo em vídeo:
+    
+    1. Curso HTML e CSS - Gustavo Guanabara (Curso em Vídeo)
+        +Vantagens:
+            * História das tecnologias.
+            * Boa trilha de conhecimento.
+            * Gratuito.
+        -Desvantagens:
+            * Pouca profundidade das tags existentes e atributos.
+            * Demora muito para explicar coisas simples.
+            * Sem Exercícios
+            * Sem projetos
+
+    2. Hcode Treinamentos
+        +Vantagens:
+            * Ampla explicação das tags existentes.
+        -Desvantagens:
+            * Cursos Pagos.
+            * Trilha de aprendizado ruim.
+
+B. Conteúdo escrito e livros:
+    1. w3cSchools
+
+    2. HTML - Maurício Samy
+
+C. Exercícios
+
+
+D. Projetos:
+    
